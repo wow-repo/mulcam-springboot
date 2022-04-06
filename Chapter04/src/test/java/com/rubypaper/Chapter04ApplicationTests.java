@@ -1,5 +1,7 @@
 package com.rubypaper;
 
+import java.util.List;
+
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.EntityTransaction;
@@ -13,7 +15,7 @@ import com.rubypaper.domain.Board;
 @SpringBootTest
 class Chapter04ApplicationTests {
 
-	@Test
+//	@Test
 	void jpaInsertTest() {
 		// 1. EntityManagerFactory 생성
 		EntityManagerFactory emf = Persistence.createEntityManagerFactory("Chapter04");
@@ -34,6 +36,9 @@ class Chapter04ApplicationTests {
 		em.persist(board); // H2 데이터베이스 BOARD 테이블에 INSERT가 전송된다.
 		tx.commit(); // transaction 종료
 		
+        Board findBoard = em.find(Board.class, 1L);
+        System.out.println("검색 결과 : " + findBoard.toString());
+        
 		// 자원 해제
 		em.clear();
 		emf.close();
@@ -56,6 +61,34 @@ class Chapter04ApplicationTests {
 		em.clear();
 		emf.close();
 	}
+	
+    @Test
+    void jpaListTest() {
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("Chapter04");
+        EntityManager em = emf.createEntityManager();
+        EntityTransaction tx = em.getTransaction();
+        
+        tx.begin(); // 트랜잭션 시작
+        for (int i = 0; i < 10; i++) {
+            Board board = new Board();
+            board.setTitle("JPA 테스트");
+            board.setWriter("테스터");
+            board.setContent("JPA 테스트.....");
+            em.persist(board);
+        }
+        tx.commit();// 트랜잭션 종료
+        
+        // 목록 조회 처리
+        String jpql = "select b from Board b order by b.seq";
+        
+        List<Board> boardList = em.createQuery(jpql).getResultList();
+        for (Board row : boardList) {
+            System.out.println("---> " + row.toString());
+        }
+        
+        em.close();
+        emf.close();        
+    }
 	
 //	@Test
 	void jpaUpdateTest() {
