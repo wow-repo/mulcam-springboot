@@ -1,0 +1,66 @@
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application using Java 17.0.2 on DESKTOP-03UKKU0 with PID 24468 (C:\DEV\eclipse-workspace\Chapter03\target\classes started by zebra in C:\DEV\eclipse-workspace\Chapter03) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.6.6, Spring v5.3.18 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to 1 default profile: "default" 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 0.308 seconds (JVM running for 667.914) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.service.LoggingRunner : DEGUB 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.service.LoggingRunner : INFO 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application using Java 17.0.2 on DESKTOP-03UKKU0 with PID 24468 (C:\DEV\eclipse-workspace\Chapter03\target\classes started by zebra in C:\DEV\eclipse-workspace\Chapter03) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.6.6, Spring v5.3.18 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to 1 default profile: "default" 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 0.308 seconds (JVM running for 674.119) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.service.LoggingRunner : DEGUB 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.service.LoggingRunner : INFO 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application using Java 17.0.2 on DESKTOP-03UKKU0 with PID 24468 (C:\DEV\eclipse-workspace\Chapter03\target\classes started by zebra in C:\DEV\eclipse-workspace\Chapter03) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.6.6, Spring v5.3.18 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to 1 default profile: "default" 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 0.274 seconds (JVM running for 677.253) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.service.LoggingRunner : DEGUB 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.service.LoggingRunner : INFO 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application using Java 17.0.2 on DESKTOP-03UKKU0 with PID 24468 (C:\DEV\eclipse-workspace\Chapter03\target\classes started by zebra in C:\DEV\eclipse-workspace\Chapter03) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.6.6, Spring v5.3.18 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to 1 default profile: "default" 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 0.29 seconds (JVM running for 694.533) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.service.LoggingRunner : DEGUB 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.service.LoggingRunner : INFO 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application using Java 17.0.2 on DESKTOP-03UKKU0 with PID 24468 (C:\DEV\eclipse-workspace\Chapter03\target\classes started by zebra in C:\DEV\eclipse-workspace\Chapter03) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.6.6, Spring v5.3.18 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to 1 default profile: "default" 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 0.317 seconds (JVM running for 753.272) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.service.LoggingRunner : DEGUB 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.service.LoggingRunner : INFO 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application using Java 17.0.2 on DESKTOP-03UKKU0 with PID 24468 (C:\DEV\eclipse-workspace\Chapter03\target\classes started by zebra in C:\DEV\eclipse-workspace\Chapter03) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.6.6, Spring v5.3.18 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to 1 default profile: "default" 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 0.313 seconds (JVM running for 757.465) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.service.LoggingRunner : DEGUB 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.service.LoggingRunner : INFO 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application using Java 17.0.2 on DESKTOP-03UKKU0 with PID 24468 (C:\DEV\eclipse-workspace\Chapter03\target\classes started by zebra in C:\DEV\eclipse-workspace\Chapter03) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.6.6, Spring v5.3.18 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to 1 default profile: "default" 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 0.279 seconds (JVM running for 839.73) 
+2022:04:06 DEBUG --- [restartedMain] com.rubypaper.service.LoggingRunner : DEGUB 레벨 로그 
+2022:04:06 INFO  --- [restartedMain] com.rubypaper.service.LoggingRunner : INFO 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
+2022:04:06 WARN  --- [restartedMain] com.rubypaper.service.LoggingRunner : WARN 레벨 로그 
+2022:04:06 ERROR --- [restartedMain] com.rubypaper.service.LoggingRunner : ERROR 레벨 로그 
