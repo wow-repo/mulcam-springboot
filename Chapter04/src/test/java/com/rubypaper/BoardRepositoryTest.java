@@ -38,4 +38,9 @@ public class BoardRepositoryTest {
 		Board board = boardRepository.findById(1L).get();
 		System.out.println("검색된 게시글 : " + board.toString());
 	}
+	
+    @Test
+    public void testDeleteBoard() {
+        boardRepository.deleteById(1L);
+    }
 }
