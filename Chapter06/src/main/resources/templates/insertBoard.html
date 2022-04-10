@@ -1,0 +1,36 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>새 글 등록</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body th:align="center">
+<h1>게시글 등록</h1>
+<form th:action="insertBoard" th:method="post" enctype="multipart/form-data">
+<table th:align="center" th:border="1" th:cellpadding="0" th:cellspacing="0">
+    <tr>
+        <td th:bgcolor="orange" th:text="제목" th:width="80"></td>
+        <td><input th:name="title" th:type="text" th:size="50"></td>
+    </tr>
+    <tr>
+        <td th:bgcolor="orange" th:text="작성자"></td>
+        <td><input th:name="writer" th:type="text" th:size="10"></td>
+    </tr>
+    <tr>
+        <td th:bgcolor="orange" th:text="내용">
+        <td>
+        <textarea th:name="content" th:cols="50" th:rows="10"></textarea>
+        </td>
+    </tr>
+    <tr>
+        <td th:bgcolor="orange" th:text="업로드"></td>
+        <td><input th:name="uploadFile" th:type="file" th:size="50"></td>
+    </tr>
+    <tr>
+        <td th:colspan="2" th:align="center">
+        <input th:type="submit" th:value="등록하기"></td>
+    </tr>
+</table>
+</form>
+<a th:href="@{/getBoardList}">글목록</a>
+</body>
+</html>
